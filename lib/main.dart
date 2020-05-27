@@ -46,7 +46,7 @@ class _CarousalDemoState extends State<CarousalDemo> {
               height: 400.0,
               initialPage: 0,
               enlargeCenterPage: true,
-              autoPlay: true,
+              autoPlay: false,
               reverse: false,
               enableInfiniteScroll: true,
               autoPlayInterval: Duration(seconds: 2),
