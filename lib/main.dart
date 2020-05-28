@@ -43,7 +43,7 @@ class _CarousalDemoState extends State<CarousalDemo> {
           crossAxisAlignment: CrossAxisAlignment.center,
           children: <Widget>[
             CarouselSlider(
-              height: 300.0,
+              height: 400.0,
               initialPage: 0,
               enlargeCenterPage: true,
               autoPlay: true,
